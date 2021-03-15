@@ -1,5 +1,5 @@
 # Phone-book
-We can read phone contacts and load them into the system and write it into the output file. We can keep the information about each phone contact. We can parse the instruction from the instruction file and perform those instructions. We can manage the contact collection and perform instructions. All instructions mst be passed through .txt file using functions given below.
+We can read phone contacts and load them into the system and write it into the output file. We can keep the information about each phone contact. We can parse the instruction from the instruction file and perform those instructions. We can manage the contact collection and perform instructions. All instructions mst be passed through .txt file using functions given below.  
 • add a new contact to the collection  
 • delete existing contact from the collection  
 • query contacts from the collection and display them on a readable report file.  
